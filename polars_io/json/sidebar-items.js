@@ -1,0 +1,1 @@
+initSidebarItems({"struct":[["ArrowJsonReader","JSON Reader"],["JsonReader",""],["JsonWriter",""],["ReaderBuilder","JSON file reader builder"],["RecordBatch","A two-dimensional dataset with a number of columns ([`Array`]) and rows and defined `Schema`."]],"type":[["ArrowResult","Typedef for a [`std::result::Result`] of an [`ArrowError`]."]]});
